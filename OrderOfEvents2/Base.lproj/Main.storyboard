@@ -56,9 +56,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="XQ3-Hr-OEq"/>
                     <connections>
-                        <outlet property="label" destination="XQ3-Hr-OEq" id="mCu-Oz-s9u"/>
-                        <outlet property="middleLabel" destination="XQ3-Hr-OEq" id="YGh-1S-DdV"/>
-                        <outlet property="titleLabel" destination="6F3-4Q-7Iv" id="Mw5-MS-1IZ"/>
+                        <outlet property="titleLabel" destination="6F3-4Q-7Iv" id="wku-9k-fsY"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nTb-3r-qeG" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
